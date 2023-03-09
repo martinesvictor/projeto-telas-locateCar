@@ -1,1 +1,0 @@
-INSERT INTO tb_veiculo(placa, marca, modelo, tipo, disponivel) values ('XCV1548', 'Ford', 'Ford KA', 'Sedan', true );
